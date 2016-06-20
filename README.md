@@ -6,6 +6,13 @@
 - low barrier to investigation
 - prototype -> project
 
+## the state of the world
+
+## elements of good interactive design
+
+
+# There Theyre Be Tygres
+
 ## irb
 
 - [Charlie's walkthrough](https://youtu.be/QMsbyBQmmkI?t=9m16s)
